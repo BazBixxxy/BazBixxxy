@@ -1,7 +1,7 @@
 ![MasterHead](https://email.uplers.com/blog/wp-content/uploads/2020/07/GIF-blog.gif)
 <h1 align="center">Hi 👋, I'm Kwagala Baz Trevor</h1>
 <h3 align="center">I'm passionate about basketball, coding, designing, and expressing my interests through reading and writing.</h3>
-<img src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif" alt="coding" align="right" width="400"/>
+<img src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif" alt="coding" align="center" width="400"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bazbixxxy&label=Profile%20views&color=0e75b6&style=flat" alt="bazbixxxy" /> </p>
 
@@ -17,7 +17,7 @@
 
 - 🤝 I’m looking for help with [Social media app](https://github.com/BazBixxxy/Full-stack-development)
 
-- 👨‍💻 All of my projects are available at [kwagalatrevor.com](kwagalatrevor.com)
+- 👨‍💻 All of my projects are available at [my website](https://kwagala.netlify.app)
 
 - 💬 Ask me about **React, Node, Express, NextJS**
 
