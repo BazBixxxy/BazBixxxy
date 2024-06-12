@@ -17,7 +17,7 @@
 
 - 🤝 I’m looking for help with [Social media app](https://github.com/BazBixxxy/Full-stack-development)
 
-- 👨‍💻 All of my projects are available at [my website](https://kwagala.netlify.app)
+- 👨‍💻 All of my projects are available on [my website](https://kwagala.netlify.app)
 
 - 💬 Ask me about **React, Node, Express, NextJS**
 
