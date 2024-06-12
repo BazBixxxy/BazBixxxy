@@ -25,7 +25,7 @@
 
 - 📄 Know about my experiences on [my website](https://kwagala.netlify.app)
 
-- ⚡ Fun fact **Bicycles 🚲 can't stand alone because they are too tired.😂🥁**
+- ⚡ Fun fact **Bicycles can't stand alone because they are too tired.😂🥁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
